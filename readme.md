@@ -1,6 +1,6 @@
 # Notes
 
-This is the code from the following article:
+This is the code from the following article (not mine, just interesting):  
 
 > Statistical tools for water quality assessment and monitoring in river ecosystems – a scoping review and recommendations for data analysis 
 Stefan G. Schreiber; Sanja Schreiber; Rajiv N. Tanna; David R. Roberts; Tim J. Arciszewski
